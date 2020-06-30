@@ -56,15 +56,23 @@
 		ED9C6C0B24AAE46900B331D5 /* CryptoCurrencies */ = {
 			isa = PBXGroup;
 			children = (
-				ED9C6C0C24AAE46900B331D5 /* AppDelegate.swift */,
-				ED9C6C0E24AAE46900B331D5 /* SceneDelegate.swift */,
+				ED9C6C2024AAE49D00B331D5 /* Supporting Files */,
 				ED9C6C1024AAE46900B331D5 /* ViewController.swift */,
 				ED9C6C1224AAE46900B331D5 /* Main.storyboard */,
 				ED9C6C1524AAE46C00B331D5 /* Assets.xcassets */,
-				ED9C6C1724AAE46C00B331D5 /* LaunchScreen.storyboard */,
 				ED9C6C1A24AAE46C00B331D5 /* Info.plist */,
 			);
 			path = CryptoCurrencies;
+			sourceTree = "<group>";
+		};
+		ED9C6C2024AAE49D00B331D5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				ED9C6C0C24AAE46900B331D5 /* AppDelegate.swift */,
+				ED9C6C0E24AAE46900B331D5 /* SceneDelegate.swift */,
+				ED9C6C1724AAE46C00B331D5 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
